@@ -1,3 +1,36 @@
-.h1 {
-    color: blue;
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.circle1 {
+    position:  fixed;
+    border-radius: 50%;
+    background-color: rgb(12, 219, 74);
+    opacity: 0.5;
+    min-width: 75vmin;
+    min-height: 75vmin;
+    top: -15vmin;
+    left: -15vmin;
+}
+.circle2 {
+    position: fixed;
+    border-radius: 50%;
+    background-color: rgb(12, 219, 74);
+    opacity: 0.5;
+    min-width: 75vmin;
+    min-height: 75vmin;
+    bottom: -15vmin;
+    right: -15vmin;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(16, 75, 34);
 }
