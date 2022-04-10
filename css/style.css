@@ -79,7 +79,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('./img/showcase.jpeg') no-repeat center center/cover;
+    background: url('https://www.automate.org/images/ogImages/AIA-blog-embedded-vision-future-imaging.jpeg') no-repeat center center/cover;
 
     /* Overlay */
     background-color: rgba(0,0,0,0.5);
